@@ -1,0 +1,9 @@
+Coloque aqui as fotos reais (jpg, webp ou png). Elas substituem os espaços reservados automaticamente.
+
+hero            -> foto principal do topo (vertical 4:5 fica melhor)
+oficina         -> mecânico trabalhando
+sobre           -> fachada ou equipe
+mtb, urbana, infantil, eletrica, acessorios, pecas -> cards de bicicletas
+galeria-1 ... galeria-6 -> galeria (quadradas)
+
+Exemplo: assets/img/mtb.jpg
